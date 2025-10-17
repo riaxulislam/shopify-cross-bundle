@@ -1,5 +1,7 @@
 # Shopify Bundle Selector Section README
 
+<img width="1920" height="2247" alt="screencapture-bestvapeinusa-myshopify-products-complete-cores-bundle-2025-10-17-09_56_08" src="https://github.com/user-attachments/assets/a615aab8-f357-4817-8789-fbf005dc8915" />
+
 This is a custom Liquid section for Shopify themes that creates an interactive product bundle builder. It allows customers to select bundle sizes (e.g., 3-pack +1 free, 5-pack +2 free, or full pack), choose individual products from a grid, track progress via a progress bar, and add the bundle to the cart with optional subscription support via app widgets (e.g., Recharge or similar subscription apps). 
 
 The section supports dynamic pricing (one-time or subscription), free product marking in cart properties, and customization via the theme editor. It integrates with Shopify's cart API and handles subscriptions without duplicate adds.
